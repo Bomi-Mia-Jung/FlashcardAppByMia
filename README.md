@@ -3,11 +3,14 @@
 ## Lab 1
 
 ### App Description
-This is a simple android flashcard app that displays a single question and 3 multiple choice answers. Once the user clicks on the question card, the answer card is displayed.
-This project was created as part of the coursework for The Introduction to Mobile App Development (Android Stuido) course provided by CodePath.
+This is a simple android flashcard app that displays a single question and 3 multiple choice answers. 
+
+Once the user clicks on the question card, the answer card is displayed.
+
+This project was created through Android Studio, as part of the coursework for the "Introduction to Mobile App Development" course provided by CodePath.
 
 ### App Walk-though
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://github.com/ACMiaJung/FlashcardAppByMia/blob/master/Flashcard%20App%20By%20Mia%20Lab%201%20Demo.gif" width=200><br>
 
 ## Required Features
 - [x] Create New Project in Android Studio
