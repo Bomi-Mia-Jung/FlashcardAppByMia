@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/soft_pink"
     tools:context=".MainActivity">
 
     <TextView
@@ -45,11 +46,11 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@id/flashcard_question"
-        android:layout_marginTop="60dp"
+        android:layout_marginTop="40dp"
         android:layout_centerHorizontal="true"
         android:background="@color/tint_of_purple"
-    android:fontFamily="casual"
-        android:padding="10dp"
+        android:fontFamily="monospace"
+        android:padding="9dp"
         android:text="depends on genetics."
         android:textColor="#b087d7"
         android:textSize="15sp" />
@@ -60,12 +61,12 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@id/choice_1"
-        android:layout_marginTop="20dp"
+        android:layout_marginTop="30dp"
         android:layout_centerHorizontal="true"
         android:background="@color/tint_of_purple"
-        android:fontFamily="casual"
-        android:padding="10dp"
-        android:text="blue."
+        android:fontFamily="monospace"
+        android:padding="9dp"
+        android:text="light blue."
         android:textColor="#b087d7"
         android:textSize="15sp" />
 
@@ -75,12 +76,12 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@id/choice_2"
-        android:layout_marginTop="20dp"
+        android:layout_marginTop="30dp"
         android:layout_centerHorizontal="true"
         android:background="@color/tint_of_purple"
-        android:fontFamily="casual"
-        android:padding="10dp"
-        android:text="how would I know that?"
+        android:fontFamily="monospace"
+        android:padding="9dp"
+        android:text="who knows?"
         android:textColor="#b087d7"
         android:textSize="15sp" />
 
@@ -90,7 +91,7 @@
         android:layout_height="40dp"
         android:layout_centerHorizontal="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginBottom="15dp"
+        android:layout_marginBottom="17dp"
         android:src="@drawable/closed_eye"/>
 
 
