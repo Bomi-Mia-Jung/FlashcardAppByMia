@@ -26,7 +26,7 @@ This project was created through Android Studio, as part of the coursework for t
    - [x] Change the background color of the multiple choice answers when clicked to indicate whether the question was answered correctly
 - [x] Further customize and style the card
 
-
+___
 
 ## Lab 2
 
