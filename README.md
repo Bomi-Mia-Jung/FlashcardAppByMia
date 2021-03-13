@@ -26,13 +26,15 @@ This project was created through Android Studio, as part of the coursework for t
    - [x] Change the background color of the multiple choice answers when clicked to indicate whether the question was answered correctly
 - [x] Further customize and style the card
 
+
+
 ## Lab 2
 
 ### App Description
 This is a simple android flashcard app that displays four multiple-choice answers for a single question. The card flips to reveal the answer explanation! Users can edit the existing question and/or answer, or create an entirely new flashcard of their own.
 
 ### App Walk-though
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="Mia Flashcard App Lab 2 Demo.gif" width=200><br>
 
 ## Required
 - [x] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
