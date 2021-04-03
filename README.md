@@ -89,7 +89,7 @@ This is a simple android flashcard app that displays four multiple-choice answer
 Users can edit the existing question and/or answer, create an entirely new flashcard of their own, or delete unwanted flashcards. Data will also be saved in the database so that any new cards or edits that the user makes will stay intact even when the user closes and relaunches the app. There are also animations added to improve the user experience.
 
 ### App Walk-though
-<img src="" width=200><br>
+<img src="https://github.com/ACMiaJung/FlashcardAppByMia/blob/dcfb1e0c05f4318c0e2b60c72d4e6b885c66462e/lab_4_app.gif" width=200><br>
 
 ## Required
 - [x] User sees a transition animation when going from the main screen to the add card screen.
