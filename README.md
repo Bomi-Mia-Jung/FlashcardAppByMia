@@ -78,3 +78,26 @@ Editing a card so that the edit is saved when browing through the deck of cards,
 - [ ] Flashcards are shown in random order instead of the order they were created in
 - [x] User can edit a card and see the edit saved when they browse through their deck of cards
 - [x] User can create flashcards with multiple answers and be able to browse through cards with multiple choice answers shown
+
+___
+
+## Lab 4
+
+### App Description
+This is a simple android flashcard app that displays four multiple-choice answers for a single question. The card flips to reveal the answer explanation! 
+
+Users can edit the existing question and/or answer, create an entirely new flashcard of their own, or delete unwanted flashcards. Data will also be saved in the database so that any new cards or edits that the user makes will stay intact even when the user closes and relaunches the app. There are also animations added to improve the user experience.
+
+### App Walk-though
+<img src="" width=200><br>
+
+## Required
+- [x] User sees a transition animation when going from the main screen to the add card screen.
+- [x] User sees a reveal animation when the flashcard is tapped and the answer is shown
+- [x] User sees flashcards animating in / out when the 'next' button is tapped
+
+## Optional
+- [x] Extra styling is added!
+- [ ] User sees a countdown timer for each question
+- [ ] User sees a 'card flip' animation when the card is tapped
+- [ ] User sees a celebration animation with confetti when they answer a question correctly
