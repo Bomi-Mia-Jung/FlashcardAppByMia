@@ -1,6 +1,6 @@
 # Flashcard App by Mia
 
-## Version 1
+## Version 1 (Basic Features)
 
 ### Description
 This is a simple android flashcard app that displays a single question and 3 multiple choice answers. 
